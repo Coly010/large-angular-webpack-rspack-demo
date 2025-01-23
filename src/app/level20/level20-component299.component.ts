@@ -1,0 +1,9 @@
+import { Component } from '@angular/core';
+
+@Component({
+    
+    selector: 'app-level20-component299',
+    templateUrl: './level20-component299.component.html',
+    styleUrls: ["./level20-component299.component.css"]
+  })
+  export class Level20Component299Component {}
