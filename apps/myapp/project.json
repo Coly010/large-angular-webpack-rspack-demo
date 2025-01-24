@@ -15,7 +15,7 @@
         "polyfills": [
           "zone.js"
         ],
-        "tsConfig": "apps/myapp/tsconfig.app.json",
+        "tsConfig": "apps/myapp/tsconfig.wp.app.json",
         "assets": [
           {
             "glob": "**/*",

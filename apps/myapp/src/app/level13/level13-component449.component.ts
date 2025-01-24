@@ -4,6 +4,5 @@ import { Component } from '@angular/core';
     
     selector: 'app-level13-component449',
     templateUrl: './level13-component449.component.html',
-    styleUrls: ["./level13-component449.component.css"]
   })
   export class Level13Component449Component {}

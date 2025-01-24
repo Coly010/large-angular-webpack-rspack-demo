@@ -10,13 +10,13 @@ const fs = require('fs');
  *
  */
 function component(name, className, directory, componentsToImport) {
-  const fileName = `src/app/${directory}/${name}.component.ts`;
+  const fileName = `apps/myapp/src/app/${directory}/${name}.component.ts`;
   const templateName = `./${name}.component.html`;
-  const fullTemplateName = `src/app/${directory}/${name}.component.html`;
-  let templateContents = `<p class="${name}-p">Hello ${name}!</p>`;
+  const fullTemplateName = `apps/myapp/src/app/${directory}/${name}.component.html`;
+  let templateContents = `<p>Hello ${name}!</p>`;
   const styleName = `./${name}.component.css`;
-  const fullStyleName = `src/app/${directory}/${name}.component.css`;
-  let styleContents = `.${name}-p { color: red; background-color: blue; }`
+  const fullStyleName = `apps/myapp/src/app/${directory}/${name}.component.css`;
+  // let styleContents = `.${name}-p { color: red; background-color: blue; }`
   let contents = `import { Component } from '@angular/core';\n`;
   let componentImports = componentsToImport.length > 0 ? 'imports: [' : '';
   for (const componentToImport of componentsToImport) {
@@ -32,12 +32,11 @@ function component(name, className, directory, componentsToImport) {
     ${componentImports}
     selector: 'app-${name}',
     templateUrl: '${templateName}',
-    styleUrls: ["${styleName}"]
   })
   export class ${className}Component {}`;
-  fs.mkdirSync(`src/app/${directory}`, { recursive: true });
+  fs.mkdirSync(`apps/myapp/src/app/${directory}`, { recursive: true });
   fs.writeFileSync(fullTemplateName, templateContents);
-  fs.writeFileSync(fullStyleName, styleContents);
+  // fs.writeFileSync(fullStyleName, styleContents);
   fs.writeFileSync(fileName, contents);
 }
 
@@ -47,7 +46,7 @@ function generateComponents() {
     let directoryClassName = `Level${j}`
 
     const componentsToImport = [];
-    for (let i = 0; i < 1000; i++) {
+    for (let i = 0; i < 1500; i++) {
       const componentName = `${directoryName}-component${i}`;
       const componentClassName = `${directoryClassName}Component${i}`;
       const importPath = `${directoryName}/${componentName}.component`;

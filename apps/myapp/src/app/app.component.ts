@@ -15,14 +15,15 @@ import { Level12Component1501Component } from './level12/level12-component1501.c
 import { Level13Component1501Component } from './level13/level13-component1501.component';
 import { Level14Component1501Component } from './level14/level14-component1501.component';
 import { Level15Component1501Component } from './level15/level15-component1501.component';
-// import { Level16Component1501Component } from './level16/level16-component1501.component';
-// import { Level17Component1501Component } from './level17/level17-component1501.component';
-// import { Level18Component1501Component } from './level18/level18-component1501.component';
-// import { Level19Component1501Component } from './level19/level19-component1501.component';
-// import { Level20Component1501Component } from './level20/level20-component1501.component';
+import { Level16Component1501Component } from './level16/level16-component1501.component';
+import { Level17Component1501Component } from './level17/level17-component1501.component';
+import { Level18Component1501Component } from './level18/level18-component1501.component';
+import { Level19Component1501Component } from './level19/level19-component1501.component';
+import { Level20Component1501Component } from './level20/level20-component1501.component';
+
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, 
+  imports: [RouterOutlet,
     Level1Component1501Component,
 Level2Component1501Component,
 Level3Component1501Component,
@@ -37,12 +38,12 @@ Level11Component1501Component,
 Level12Component1501Component,
 Level13Component1501Component,
 Level14Component1501Component,
-Level15Component1501Component,
-// Level16Component1501Component,
-// Level17Component1501Component,
-// Level18Component1501Component,
-// Level19Component1501Component,
-// Level20Component1501Component
+    Level15Component1501Component,
+    Level16Component1501Component,
+    Level17Component1501Component,
+    Level18Component1501Component,
+    Level19Component1501Component,
+    Level20Component1501Component,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'

@@ -999,6 +999,506 @@ import { Level20Component996Component } from '../level20/level20-component996.co
 import { Level20Component997Component } from '../level20/level20-component997.component';
 import { Level20Component998Component } from '../level20/level20-component998.component';
 import { Level20Component999Component } from '../level20/level20-component999.component';
+import { Level20Component1000Component } from '../level20/level20-component1000.component';
+import { Level20Component1001Component } from '../level20/level20-component1001.component';
+import { Level20Component1002Component } from '../level20/level20-component1002.component';
+import { Level20Component1003Component } from '../level20/level20-component1003.component';
+import { Level20Component1004Component } from '../level20/level20-component1004.component';
+import { Level20Component1005Component } from '../level20/level20-component1005.component';
+import { Level20Component1006Component } from '../level20/level20-component1006.component';
+import { Level20Component1007Component } from '../level20/level20-component1007.component';
+import { Level20Component1008Component } from '../level20/level20-component1008.component';
+import { Level20Component1009Component } from '../level20/level20-component1009.component';
+import { Level20Component1010Component } from '../level20/level20-component1010.component';
+import { Level20Component1011Component } from '../level20/level20-component1011.component';
+import { Level20Component1012Component } from '../level20/level20-component1012.component';
+import { Level20Component1013Component } from '../level20/level20-component1013.component';
+import { Level20Component1014Component } from '../level20/level20-component1014.component';
+import { Level20Component1015Component } from '../level20/level20-component1015.component';
+import { Level20Component1016Component } from '../level20/level20-component1016.component';
+import { Level20Component1017Component } from '../level20/level20-component1017.component';
+import { Level20Component1018Component } from '../level20/level20-component1018.component';
+import { Level20Component1019Component } from '../level20/level20-component1019.component';
+import { Level20Component1020Component } from '../level20/level20-component1020.component';
+import { Level20Component1021Component } from '../level20/level20-component1021.component';
+import { Level20Component1022Component } from '../level20/level20-component1022.component';
+import { Level20Component1023Component } from '../level20/level20-component1023.component';
+import { Level20Component1024Component } from '../level20/level20-component1024.component';
+import { Level20Component1025Component } from '../level20/level20-component1025.component';
+import { Level20Component1026Component } from '../level20/level20-component1026.component';
+import { Level20Component1027Component } from '../level20/level20-component1027.component';
+import { Level20Component1028Component } from '../level20/level20-component1028.component';
+import { Level20Component1029Component } from '../level20/level20-component1029.component';
+import { Level20Component1030Component } from '../level20/level20-component1030.component';
+import { Level20Component1031Component } from '../level20/level20-component1031.component';
+import { Level20Component1032Component } from '../level20/level20-component1032.component';
+import { Level20Component1033Component } from '../level20/level20-component1033.component';
+import { Level20Component1034Component } from '../level20/level20-component1034.component';
+import { Level20Component1035Component } from '../level20/level20-component1035.component';
+import { Level20Component1036Component } from '../level20/level20-component1036.component';
+import { Level20Component1037Component } from '../level20/level20-component1037.component';
+import { Level20Component1038Component } from '../level20/level20-component1038.component';
+import { Level20Component1039Component } from '../level20/level20-component1039.component';
+import { Level20Component1040Component } from '../level20/level20-component1040.component';
+import { Level20Component1041Component } from '../level20/level20-component1041.component';
+import { Level20Component1042Component } from '../level20/level20-component1042.component';
+import { Level20Component1043Component } from '../level20/level20-component1043.component';
+import { Level20Component1044Component } from '../level20/level20-component1044.component';
+import { Level20Component1045Component } from '../level20/level20-component1045.component';
+import { Level20Component1046Component } from '../level20/level20-component1046.component';
+import { Level20Component1047Component } from '../level20/level20-component1047.component';
+import { Level20Component1048Component } from '../level20/level20-component1048.component';
+import { Level20Component1049Component } from '../level20/level20-component1049.component';
+import { Level20Component1050Component } from '../level20/level20-component1050.component';
+import { Level20Component1051Component } from '../level20/level20-component1051.component';
+import { Level20Component1052Component } from '../level20/level20-component1052.component';
+import { Level20Component1053Component } from '../level20/level20-component1053.component';
+import { Level20Component1054Component } from '../level20/level20-component1054.component';
+import { Level20Component1055Component } from '../level20/level20-component1055.component';
+import { Level20Component1056Component } from '../level20/level20-component1056.component';
+import { Level20Component1057Component } from '../level20/level20-component1057.component';
+import { Level20Component1058Component } from '../level20/level20-component1058.component';
+import { Level20Component1059Component } from '../level20/level20-component1059.component';
+import { Level20Component1060Component } from '../level20/level20-component1060.component';
+import { Level20Component1061Component } from '../level20/level20-component1061.component';
+import { Level20Component1062Component } from '../level20/level20-component1062.component';
+import { Level20Component1063Component } from '../level20/level20-component1063.component';
+import { Level20Component1064Component } from '../level20/level20-component1064.component';
+import { Level20Component1065Component } from '../level20/level20-component1065.component';
+import { Level20Component1066Component } from '../level20/level20-component1066.component';
+import { Level20Component1067Component } from '../level20/level20-component1067.component';
+import { Level20Component1068Component } from '../level20/level20-component1068.component';
+import { Level20Component1069Component } from '../level20/level20-component1069.component';
+import { Level20Component1070Component } from '../level20/level20-component1070.component';
+import { Level20Component1071Component } from '../level20/level20-component1071.component';
+import { Level20Component1072Component } from '../level20/level20-component1072.component';
+import { Level20Component1073Component } from '../level20/level20-component1073.component';
+import { Level20Component1074Component } from '../level20/level20-component1074.component';
+import { Level20Component1075Component } from '../level20/level20-component1075.component';
+import { Level20Component1076Component } from '../level20/level20-component1076.component';
+import { Level20Component1077Component } from '../level20/level20-component1077.component';
+import { Level20Component1078Component } from '../level20/level20-component1078.component';
+import { Level20Component1079Component } from '../level20/level20-component1079.component';
+import { Level20Component1080Component } from '../level20/level20-component1080.component';
+import { Level20Component1081Component } from '../level20/level20-component1081.component';
+import { Level20Component1082Component } from '../level20/level20-component1082.component';
+import { Level20Component1083Component } from '../level20/level20-component1083.component';
+import { Level20Component1084Component } from '../level20/level20-component1084.component';
+import { Level20Component1085Component } from '../level20/level20-component1085.component';
+import { Level20Component1086Component } from '../level20/level20-component1086.component';
+import { Level20Component1087Component } from '../level20/level20-component1087.component';
+import { Level20Component1088Component } from '../level20/level20-component1088.component';
+import { Level20Component1089Component } from '../level20/level20-component1089.component';
+import { Level20Component1090Component } from '../level20/level20-component1090.component';
+import { Level20Component1091Component } from '../level20/level20-component1091.component';
+import { Level20Component1092Component } from '../level20/level20-component1092.component';
+import { Level20Component1093Component } from '../level20/level20-component1093.component';
+import { Level20Component1094Component } from '../level20/level20-component1094.component';
+import { Level20Component1095Component } from '../level20/level20-component1095.component';
+import { Level20Component1096Component } from '../level20/level20-component1096.component';
+import { Level20Component1097Component } from '../level20/level20-component1097.component';
+import { Level20Component1098Component } from '../level20/level20-component1098.component';
+import { Level20Component1099Component } from '../level20/level20-component1099.component';
+import { Level20Component1100Component } from '../level20/level20-component1100.component';
+import { Level20Component1101Component } from '../level20/level20-component1101.component';
+import { Level20Component1102Component } from '../level20/level20-component1102.component';
+import { Level20Component1103Component } from '../level20/level20-component1103.component';
+import { Level20Component1104Component } from '../level20/level20-component1104.component';
+import { Level20Component1105Component } from '../level20/level20-component1105.component';
+import { Level20Component1106Component } from '../level20/level20-component1106.component';
+import { Level20Component1107Component } from '../level20/level20-component1107.component';
+import { Level20Component1108Component } from '../level20/level20-component1108.component';
+import { Level20Component1109Component } from '../level20/level20-component1109.component';
+import { Level20Component1110Component } from '../level20/level20-component1110.component';
+import { Level20Component1111Component } from '../level20/level20-component1111.component';
+import { Level20Component1112Component } from '../level20/level20-component1112.component';
+import { Level20Component1113Component } from '../level20/level20-component1113.component';
+import { Level20Component1114Component } from '../level20/level20-component1114.component';
+import { Level20Component1115Component } from '../level20/level20-component1115.component';
+import { Level20Component1116Component } from '../level20/level20-component1116.component';
+import { Level20Component1117Component } from '../level20/level20-component1117.component';
+import { Level20Component1118Component } from '../level20/level20-component1118.component';
+import { Level20Component1119Component } from '../level20/level20-component1119.component';
+import { Level20Component1120Component } from '../level20/level20-component1120.component';
+import { Level20Component1121Component } from '../level20/level20-component1121.component';
+import { Level20Component1122Component } from '../level20/level20-component1122.component';
+import { Level20Component1123Component } from '../level20/level20-component1123.component';
+import { Level20Component1124Component } from '../level20/level20-component1124.component';
+import { Level20Component1125Component } from '../level20/level20-component1125.component';
+import { Level20Component1126Component } from '../level20/level20-component1126.component';
+import { Level20Component1127Component } from '../level20/level20-component1127.component';
+import { Level20Component1128Component } from '../level20/level20-component1128.component';
+import { Level20Component1129Component } from '../level20/level20-component1129.component';
+import { Level20Component1130Component } from '../level20/level20-component1130.component';
+import { Level20Component1131Component } from '../level20/level20-component1131.component';
+import { Level20Component1132Component } from '../level20/level20-component1132.component';
+import { Level20Component1133Component } from '../level20/level20-component1133.component';
+import { Level20Component1134Component } from '../level20/level20-component1134.component';
+import { Level20Component1135Component } from '../level20/level20-component1135.component';
+import { Level20Component1136Component } from '../level20/level20-component1136.component';
+import { Level20Component1137Component } from '../level20/level20-component1137.component';
+import { Level20Component1138Component } from '../level20/level20-component1138.component';
+import { Level20Component1139Component } from '../level20/level20-component1139.component';
+import { Level20Component1140Component } from '../level20/level20-component1140.component';
+import { Level20Component1141Component } from '../level20/level20-component1141.component';
+import { Level20Component1142Component } from '../level20/level20-component1142.component';
+import { Level20Component1143Component } from '../level20/level20-component1143.component';
+import { Level20Component1144Component } from '../level20/level20-component1144.component';
+import { Level20Component1145Component } from '../level20/level20-component1145.component';
+import { Level20Component1146Component } from '../level20/level20-component1146.component';
+import { Level20Component1147Component } from '../level20/level20-component1147.component';
+import { Level20Component1148Component } from '../level20/level20-component1148.component';
+import { Level20Component1149Component } from '../level20/level20-component1149.component';
+import { Level20Component1150Component } from '../level20/level20-component1150.component';
+import { Level20Component1151Component } from '../level20/level20-component1151.component';
+import { Level20Component1152Component } from '../level20/level20-component1152.component';
+import { Level20Component1153Component } from '../level20/level20-component1153.component';
+import { Level20Component1154Component } from '../level20/level20-component1154.component';
+import { Level20Component1155Component } from '../level20/level20-component1155.component';
+import { Level20Component1156Component } from '../level20/level20-component1156.component';
+import { Level20Component1157Component } from '../level20/level20-component1157.component';
+import { Level20Component1158Component } from '../level20/level20-component1158.component';
+import { Level20Component1159Component } from '../level20/level20-component1159.component';
+import { Level20Component1160Component } from '../level20/level20-component1160.component';
+import { Level20Component1161Component } from '../level20/level20-component1161.component';
+import { Level20Component1162Component } from '../level20/level20-component1162.component';
+import { Level20Component1163Component } from '../level20/level20-component1163.component';
+import { Level20Component1164Component } from '../level20/level20-component1164.component';
+import { Level20Component1165Component } from '../level20/level20-component1165.component';
+import { Level20Component1166Component } from '../level20/level20-component1166.component';
+import { Level20Component1167Component } from '../level20/level20-component1167.component';
+import { Level20Component1168Component } from '../level20/level20-component1168.component';
+import { Level20Component1169Component } from '../level20/level20-component1169.component';
+import { Level20Component1170Component } from '../level20/level20-component1170.component';
+import { Level20Component1171Component } from '../level20/level20-component1171.component';
+import { Level20Component1172Component } from '../level20/level20-component1172.component';
+import { Level20Component1173Component } from '../level20/level20-component1173.component';
+import { Level20Component1174Component } from '../level20/level20-component1174.component';
+import { Level20Component1175Component } from '../level20/level20-component1175.component';
+import { Level20Component1176Component } from '../level20/level20-component1176.component';
+import { Level20Component1177Component } from '../level20/level20-component1177.component';
+import { Level20Component1178Component } from '../level20/level20-component1178.component';
+import { Level20Component1179Component } from '../level20/level20-component1179.component';
+import { Level20Component1180Component } from '../level20/level20-component1180.component';
+import { Level20Component1181Component } from '../level20/level20-component1181.component';
+import { Level20Component1182Component } from '../level20/level20-component1182.component';
+import { Level20Component1183Component } from '../level20/level20-component1183.component';
+import { Level20Component1184Component } from '../level20/level20-component1184.component';
+import { Level20Component1185Component } from '../level20/level20-component1185.component';
+import { Level20Component1186Component } from '../level20/level20-component1186.component';
+import { Level20Component1187Component } from '../level20/level20-component1187.component';
+import { Level20Component1188Component } from '../level20/level20-component1188.component';
+import { Level20Component1189Component } from '../level20/level20-component1189.component';
+import { Level20Component1190Component } from '../level20/level20-component1190.component';
+import { Level20Component1191Component } from '../level20/level20-component1191.component';
+import { Level20Component1192Component } from '../level20/level20-component1192.component';
+import { Level20Component1193Component } from '../level20/level20-component1193.component';
+import { Level20Component1194Component } from '../level20/level20-component1194.component';
+import { Level20Component1195Component } from '../level20/level20-component1195.component';
+import { Level20Component1196Component } from '../level20/level20-component1196.component';
+import { Level20Component1197Component } from '../level20/level20-component1197.component';
+import { Level20Component1198Component } from '../level20/level20-component1198.component';
+import { Level20Component1199Component } from '../level20/level20-component1199.component';
+import { Level20Component1200Component } from '../level20/level20-component1200.component';
+import { Level20Component1201Component } from '../level20/level20-component1201.component';
+import { Level20Component1202Component } from '../level20/level20-component1202.component';
+import { Level20Component1203Component } from '../level20/level20-component1203.component';
+import { Level20Component1204Component } from '../level20/level20-component1204.component';
+import { Level20Component1205Component } from '../level20/level20-component1205.component';
+import { Level20Component1206Component } from '../level20/level20-component1206.component';
+import { Level20Component1207Component } from '../level20/level20-component1207.component';
+import { Level20Component1208Component } from '../level20/level20-component1208.component';
+import { Level20Component1209Component } from '../level20/level20-component1209.component';
+import { Level20Component1210Component } from '../level20/level20-component1210.component';
+import { Level20Component1211Component } from '../level20/level20-component1211.component';
+import { Level20Component1212Component } from '../level20/level20-component1212.component';
+import { Level20Component1213Component } from '../level20/level20-component1213.component';
+import { Level20Component1214Component } from '../level20/level20-component1214.component';
+import { Level20Component1215Component } from '../level20/level20-component1215.component';
+import { Level20Component1216Component } from '../level20/level20-component1216.component';
+import { Level20Component1217Component } from '../level20/level20-component1217.component';
+import { Level20Component1218Component } from '../level20/level20-component1218.component';
+import { Level20Component1219Component } from '../level20/level20-component1219.component';
+import { Level20Component1220Component } from '../level20/level20-component1220.component';
+import { Level20Component1221Component } from '../level20/level20-component1221.component';
+import { Level20Component1222Component } from '../level20/level20-component1222.component';
+import { Level20Component1223Component } from '../level20/level20-component1223.component';
+import { Level20Component1224Component } from '../level20/level20-component1224.component';
+import { Level20Component1225Component } from '../level20/level20-component1225.component';
+import { Level20Component1226Component } from '../level20/level20-component1226.component';
+import { Level20Component1227Component } from '../level20/level20-component1227.component';
+import { Level20Component1228Component } from '../level20/level20-component1228.component';
+import { Level20Component1229Component } from '../level20/level20-component1229.component';
+import { Level20Component1230Component } from '../level20/level20-component1230.component';
+import { Level20Component1231Component } from '../level20/level20-component1231.component';
+import { Level20Component1232Component } from '../level20/level20-component1232.component';
+import { Level20Component1233Component } from '../level20/level20-component1233.component';
+import { Level20Component1234Component } from '../level20/level20-component1234.component';
+import { Level20Component1235Component } from '../level20/level20-component1235.component';
+import { Level20Component1236Component } from '../level20/level20-component1236.component';
+import { Level20Component1237Component } from '../level20/level20-component1237.component';
+import { Level20Component1238Component } from '../level20/level20-component1238.component';
+import { Level20Component1239Component } from '../level20/level20-component1239.component';
+import { Level20Component1240Component } from '../level20/level20-component1240.component';
+import { Level20Component1241Component } from '../level20/level20-component1241.component';
+import { Level20Component1242Component } from '../level20/level20-component1242.component';
+import { Level20Component1243Component } from '../level20/level20-component1243.component';
+import { Level20Component1244Component } from '../level20/level20-component1244.component';
+import { Level20Component1245Component } from '../level20/level20-component1245.component';
+import { Level20Component1246Component } from '../level20/level20-component1246.component';
+import { Level20Component1247Component } from '../level20/level20-component1247.component';
+import { Level20Component1248Component } from '../level20/level20-component1248.component';
+import { Level20Component1249Component } from '../level20/level20-component1249.component';
+import { Level20Component1250Component } from '../level20/level20-component1250.component';
+import { Level20Component1251Component } from '../level20/level20-component1251.component';
+import { Level20Component1252Component } from '../level20/level20-component1252.component';
+import { Level20Component1253Component } from '../level20/level20-component1253.component';
+import { Level20Component1254Component } from '../level20/level20-component1254.component';
+import { Level20Component1255Component } from '../level20/level20-component1255.component';
+import { Level20Component1256Component } from '../level20/level20-component1256.component';
+import { Level20Component1257Component } from '../level20/level20-component1257.component';
+import { Level20Component1258Component } from '../level20/level20-component1258.component';
+import { Level20Component1259Component } from '../level20/level20-component1259.component';
+import { Level20Component1260Component } from '../level20/level20-component1260.component';
+import { Level20Component1261Component } from '../level20/level20-component1261.component';
+import { Level20Component1262Component } from '../level20/level20-component1262.component';
+import { Level20Component1263Component } from '../level20/level20-component1263.component';
+import { Level20Component1264Component } from '../level20/level20-component1264.component';
+import { Level20Component1265Component } from '../level20/level20-component1265.component';
+import { Level20Component1266Component } from '../level20/level20-component1266.component';
+import { Level20Component1267Component } from '../level20/level20-component1267.component';
+import { Level20Component1268Component } from '../level20/level20-component1268.component';
+import { Level20Component1269Component } from '../level20/level20-component1269.component';
+import { Level20Component1270Component } from '../level20/level20-component1270.component';
+import { Level20Component1271Component } from '../level20/level20-component1271.component';
+import { Level20Component1272Component } from '../level20/level20-component1272.component';
+import { Level20Component1273Component } from '../level20/level20-component1273.component';
+import { Level20Component1274Component } from '../level20/level20-component1274.component';
+import { Level20Component1275Component } from '../level20/level20-component1275.component';
+import { Level20Component1276Component } from '../level20/level20-component1276.component';
+import { Level20Component1277Component } from '../level20/level20-component1277.component';
+import { Level20Component1278Component } from '../level20/level20-component1278.component';
+import { Level20Component1279Component } from '../level20/level20-component1279.component';
+import { Level20Component1280Component } from '../level20/level20-component1280.component';
+import { Level20Component1281Component } from '../level20/level20-component1281.component';
+import { Level20Component1282Component } from '../level20/level20-component1282.component';
+import { Level20Component1283Component } from '../level20/level20-component1283.component';
+import { Level20Component1284Component } from '../level20/level20-component1284.component';
+import { Level20Component1285Component } from '../level20/level20-component1285.component';
+import { Level20Component1286Component } from '../level20/level20-component1286.component';
+import { Level20Component1287Component } from '../level20/level20-component1287.component';
+import { Level20Component1288Component } from '../level20/level20-component1288.component';
+import { Level20Component1289Component } from '../level20/level20-component1289.component';
+import { Level20Component1290Component } from '../level20/level20-component1290.component';
+import { Level20Component1291Component } from '../level20/level20-component1291.component';
+import { Level20Component1292Component } from '../level20/level20-component1292.component';
+import { Level20Component1293Component } from '../level20/level20-component1293.component';
+import { Level20Component1294Component } from '../level20/level20-component1294.component';
+import { Level20Component1295Component } from '../level20/level20-component1295.component';
+import { Level20Component1296Component } from '../level20/level20-component1296.component';
+import { Level20Component1297Component } from '../level20/level20-component1297.component';
+import { Level20Component1298Component } from '../level20/level20-component1298.component';
+import { Level20Component1299Component } from '../level20/level20-component1299.component';
+import { Level20Component1300Component } from '../level20/level20-component1300.component';
+import { Level20Component1301Component } from '../level20/level20-component1301.component';
+import { Level20Component1302Component } from '../level20/level20-component1302.component';
+import { Level20Component1303Component } from '../level20/level20-component1303.component';
+import { Level20Component1304Component } from '../level20/level20-component1304.component';
+import { Level20Component1305Component } from '../level20/level20-component1305.component';
+import { Level20Component1306Component } from '../level20/level20-component1306.component';
+import { Level20Component1307Component } from '../level20/level20-component1307.component';
+import { Level20Component1308Component } from '../level20/level20-component1308.component';
+import { Level20Component1309Component } from '../level20/level20-component1309.component';
+import { Level20Component1310Component } from '../level20/level20-component1310.component';
+import { Level20Component1311Component } from '../level20/level20-component1311.component';
+import { Level20Component1312Component } from '../level20/level20-component1312.component';
+import { Level20Component1313Component } from '../level20/level20-component1313.component';
+import { Level20Component1314Component } from '../level20/level20-component1314.component';
+import { Level20Component1315Component } from '../level20/level20-component1315.component';
+import { Level20Component1316Component } from '../level20/level20-component1316.component';
+import { Level20Component1317Component } from '../level20/level20-component1317.component';
+import { Level20Component1318Component } from '../level20/level20-component1318.component';
+import { Level20Component1319Component } from '../level20/level20-component1319.component';
+import { Level20Component1320Component } from '../level20/level20-component1320.component';
+import { Level20Component1321Component } from '../level20/level20-component1321.component';
+import { Level20Component1322Component } from '../level20/level20-component1322.component';
+import { Level20Component1323Component } from '../level20/level20-component1323.component';
+import { Level20Component1324Component } from '../level20/level20-component1324.component';
+import { Level20Component1325Component } from '../level20/level20-component1325.component';
+import { Level20Component1326Component } from '../level20/level20-component1326.component';
+import { Level20Component1327Component } from '../level20/level20-component1327.component';
+import { Level20Component1328Component } from '../level20/level20-component1328.component';
+import { Level20Component1329Component } from '../level20/level20-component1329.component';
+import { Level20Component1330Component } from '../level20/level20-component1330.component';
+import { Level20Component1331Component } from '../level20/level20-component1331.component';
+import { Level20Component1332Component } from '../level20/level20-component1332.component';
+import { Level20Component1333Component } from '../level20/level20-component1333.component';
+import { Level20Component1334Component } from '../level20/level20-component1334.component';
+import { Level20Component1335Component } from '../level20/level20-component1335.component';
+import { Level20Component1336Component } from '../level20/level20-component1336.component';
+import { Level20Component1337Component } from '../level20/level20-component1337.component';
+import { Level20Component1338Component } from '../level20/level20-component1338.component';
+import { Level20Component1339Component } from '../level20/level20-component1339.component';
+import { Level20Component1340Component } from '../level20/level20-component1340.component';
+import { Level20Component1341Component } from '../level20/level20-component1341.component';
+import { Level20Component1342Component } from '../level20/level20-component1342.component';
+import { Level20Component1343Component } from '../level20/level20-component1343.component';
+import { Level20Component1344Component } from '../level20/level20-component1344.component';
+import { Level20Component1345Component } from '../level20/level20-component1345.component';
+import { Level20Component1346Component } from '../level20/level20-component1346.component';
+import { Level20Component1347Component } from '../level20/level20-component1347.component';
+import { Level20Component1348Component } from '../level20/level20-component1348.component';
+import { Level20Component1349Component } from '../level20/level20-component1349.component';
+import { Level20Component1350Component } from '../level20/level20-component1350.component';
+import { Level20Component1351Component } from '../level20/level20-component1351.component';
+import { Level20Component1352Component } from '../level20/level20-component1352.component';
+import { Level20Component1353Component } from '../level20/level20-component1353.component';
+import { Level20Component1354Component } from '../level20/level20-component1354.component';
+import { Level20Component1355Component } from '../level20/level20-component1355.component';
+import { Level20Component1356Component } from '../level20/level20-component1356.component';
+import { Level20Component1357Component } from '../level20/level20-component1357.component';
+import { Level20Component1358Component } from '../level20/level20-component1358.component';
+import { Level20Component1359Component } from '../level20/level20-component1359.component';
+import { Level20Component1360Component } from '../level20/level20-component1360.component';
+import { Level20Component1361Component } from '../level20/level20-component1361.component';
+import { Level20Component1362Component } from '../level20/level20-component1362.component';
+import { Level20Component1363Component } from '../level20/level20-component1363.component';
+import { Level20Component1364Component } from '../level20/level20-component1364.component';
+import { Level20Component1365Component } from '../level20/level20-component1365.component';
+import { Level20Component1366Component } from '../level20/level20-component1366.component';
+import { Level20Component1367Component } from '../level20/level20-component1367.component';
+import { Level20Component1368Component } from '../level20/level20-component1368.component';
+import { Level20Component1369Component } from '../level20/level20-component1369.component';
+import { Level20Component1370Component } from '../level20/level20-component1370.component';
+import { Level20Component1371Component } from '../level20/level20-component1371.component';
+import { Level20Component1372Component } from '../level20/level20-component1372.component';
+import { Level20Component1373Component } from '../level20/level20-component1373.component';
+import { Level20Component1374Component } from '../level20/level20-component1374.component';
+import { Level20Component1375Component } from '../level20/level20-component1375.component';
+import { Level20Component1376Component } from '../level20/level20-component1376.component';
+import { Level20Component1377Component } from '../level20/level20-component1377.component';
+import { Level20Component1378Component } from '../level20/level20-component1378.component';
+import { Level20Component1379Component } from '../level20/level20-component1379.component';
+import { Level20Component1380Component } from '../level20/level20-component1380.component';
+import { Level20Component1381Component } from '../level20/level20-component1381.component';
+import { Level20Component1382Component } from '../level20/level20-component1382.component';
+import { Level20Component1383Component } from '../level20/level20-component1383.component';
+import { Level20Component1384Component } from '../level20/level20-component1384.component';
+import { Level20Component1385Component } from '../level20/level20-component1385.component';
+import { Level20Component1386Component } from '../level20/level20-component1386.component';
+import { Level20Component1387Component } from '../level20/level20-component1387.component';
+import { Level20Component1388Component } from '../level20/level20-component1388.component';
+import { Level20Component1389Component } from '../level20/level20-component1389.component';
+import { Level20Component1390Component } from '../level20/level20-component1390.component';
+import { Level20Component1391Component } from '../level20/level20-component1391.component';
+import { Level20Component1392Component } from '../level20/level20-component1392.component';
+import { Level20Component1393Component } from '../level20/level20-component1393.component';
+import { Level20Component1394Component } from '../level20/level20-component1394.component';
+import { Level20Component1395Component } from '../level20/level20-component1395.component';
+import { Level20Component1396Component } from '../level20/level20-component1396.component';
+import { Level20Component1397Component } from '../level20/level20-component1397.component';
+import { Level20Component1398Component } from '../level20/level20-component1398.component';
+import { Level20Component1399Component } from '../level20/level20-component1399.component';
+import { Level20Component1400Component } from '../level20/level20-component1400.component';
+import { Level20Component1401Component } from '../level20/level20-component1401.component';
+import { Level20Component1402Component } from '../level20/level20-component1402.component';
+import { Level20Component1403Component } from '../level20/level20-component1403.component';
+import { Level20Component1404Component } from '../level20/level20-component1404.component';
+import { Level20Component1405Component } from '../level20/level20-component1405.component';
+import { Level20Component1406Component } from '../level20/level20-component1406.component';
+import { Level20Component1407Component } from '../level20/level20-component1407.component';
+import { Level20Component1408Component } from '../level20/level20-component1408.component';
+import { Level20Component1409Component } from '../level20/level20-component1409.component';
+import { Level20Component1410Component } from '../level20/level20-component1410.component';
+import { Level20Component1411Component } from '../level20/level20-component1411.component';
+import { Level20Component1412Component } from '../level20/level20-component1412.component';
+import { Level20Component1413Component } from '../level20/level20-component1413.component';
+import { Level20Component1414Component } from '../level20/level20-component1414.component';
+import { Level20Component1415Component } from '../level20/level20-component1415.component';
+import { Level20Component1416Component } from '../level20/level20-component1416.component';
+import { Level20Component1417Component } from '../level20/level20-component1417.component';
+import { Level20Component1418Component } from '../level20/level20-component1418.component';
+import { Level20Component1419Component } from '../level20/level20-component1419.component';
+import { Level20Component1420Component } from '../level20/level20-component1420.component';
+import { Level20Component1421Component } from '../level20/level20-component1421.component';
+import { Level20Component1422Component } from '../level20/level20-component1422.component';
+import { Level20Component1423Component } from '../level20/level20-component1423.component';
+import { Level20Component1424Component } from '../level20/level20-component1424.component';
+import { Level20Component1425Component } from '../level20/level20-component1425.component';
+import { Level20Component1426Component } from '../level20/level20-component1426.component';
+import { Level20Component1427Component } from '../level20/level20-component1427.component';
+import { Level20Component1428Component } from '../level20/level20-component1428.component';
+import { Level20Component1429Component } from '../level20/level20-component1429.component';
+import { Level20Component1430Component } from '../level20/level20-component1430.component';
+import { Level20Component1431Component } from '../level20/level20-component1431.component';
+import { Level20Component1432Component } from '../level20/level20-component1432.component';
+import { Level20Component1433Component } from '../level20/level20-component1433.component';
+import { Level20Component1434Component } from '../level20/level20-component1434.component';
+import { Level20Component1435Component } from '../level20/level20-component1435.component';
+import { Level20Component1436Component } from '../level20/level20-component1436.component';
+import { Level20Component1437Component } from '../level20/level20-component1437.component';
+import { Level20Component1438Component } from '../level20/level20-component1438.component';
+import { Level20Component1439Component } from '../level20/level20-component1439.component';
+import { Level20Component1440Component } from '../level20/level20-component1440.component';
+import { Level20Component1441Component } from '../level20/level20-component1441.component';
+import { Level20Component1442Component } from '../level20/level20-component1442.component';
+import { Level20Component1443Component } from '../level20/level20-component1443.component';
+import { Level20Component1444Component } from '../level20/level20-component1444.component';
+import { Level20Component1445Component } from '../level20/level20-component1445.component';
+import { Level20Component1446Component } from '../level20/level20-component1446.component';
+import { Level20Component1447Component } from '../level20/level20-component1447.component';
+import { Level20Component1448Component } from '../level20/level20-component1448.component';
+import { Level20Component1449Component } from '../level20/level20-component1449.component';
+import { Level20Component1450Component } from '../level20/level20-component1450.component';
+import { Level20Component1451Component } from '../level20/level20-component1451.component';
+import { Level20Component1452Component } from '../level20/level20-component1452.component';
+import { Level20Component1453Component } from '../level20/level20-component1453.component';
+import { Level20Component1454Component } from '../level20/level20-component1454.component';
+import { Level20Component1455Component } from '../level20/level20-component1455.component';
+import { Level20Component1456Component } from '../level20/level20-component1456.component';
+import { Level20Component1457Component } from '../level20/level20-component1457.component';
+import { Level20Component1458Component } from '../level20/level20-component1458.component';
+import { Level20Component1459Component } from '../level20/level20-component1459.component';
+import { Level20Component1460Component } from '../level20/level20-component1460.component';
+import { Level20Component1461Component } from '../level20/level20-component1461.component';
+import { Level20Component1462Component } from '../level20/level20-component1462.component';
+import { Level20Component1463Component } from '../level20/level20-component1463.component';
+import { Level20Component1464Component } from '../level20/level20-component1464.component';
+import { Level20Component1465Component } from '../level20/level20-component1465.component';
+import { Level20Component1466Component } from '../level20/level20-component1466.component';
+import { Level20Component1467Component } from '../level20/level20-component1467.component';
+import { Level20Component1468Component } from '../level20/level20-component1468.component';
+import { Level20Component1469Component } from '../level20/level20-component1469.component';
+import { Level20Component1470Component } from '../level20/level20-component1470.component';
+import { Level20Component1471Component } from '../level20/level20-component1471.component';
+import { Level20Component1472Component } from '../level20/level20-component1472.component';
+import { Level20Component1473Component } from '../level20/level20-component1473.component';
+import { Level20Component1474Component } from '../level20/level20-component1474.component';
+import { Level20Component1475Component } from '../level20/level20-component1475.component';
+import { Level20Component1476Component } from '../level20/level20-component1476.component';
+import { Level20Component1477Component } from '../level20/level20-component1477.component';
+import { Level20Component1478Component } from '../level20/level20-component1478.component';
+import { Level20Component1479Component } from '../level20/level20-component1479.component';
+import { Level20Component1480Component } from '../level20/level20-component1480.component';
+import { Level20Component1481Component } from '../level20/level20-component1481.component';
+import { Level20Component1482Component } from '../level20/level20-component1482.component';
+import { Level20Component1483Component } from '../level20/level20-component1483.component';
+import { Level20Component1484Component } from '../level20/level20-component1484.component';
+import { Level20Component1485Component } from '../level20/level20-component1485.component';
+import { Level20Component1486Component } from '../level20/level20-component1486.component';
+import { Level20Component1487Component } from '../level20/level20-component1487.component';
+import { Level20Component1488Component } from '../level20/level20-component1488.component';
+import { Level20Component1489Component } from '../level20/level20-component1489.component';
+import { Level20Component1490Component } from '../level20/level20-component1490.component';
+import { Level20Component1491Component } from '../level20/level20-component1491.component';
+import { Level20Component1492Component } from '../level20/level20-component1492.component';
+import { Level20Component1493Component } from '../level20/level20-component1493.component';
+import { Level20Component1494Component } from '../level20/level20-component1494.component';
+import { Level20Component1495Component } from '../level20/level20-component1495.component';
+import { Level20Component1496Component } from '../level20/level20-component1496.component';
+import { Level20Component1497Component } from '../level20/level20-component1497.component';
+import { Level20Component1498Component } from '../level20/level20-component1498.component';
+import { Level20Component1499Component } from '../level20/level20-component1499.component';
 
 @Component({
     imports: [Level20Component0Component,
@@ -2001,9 +2501,508 @@ Level20Component996Component,
 Level20Component997Component,
 Level20Component998Component,
 Level20Component999Component,
+Level20Component1000Component,
+Level20Component1001Component,
+Level20Component1002Component,
+Level20Component1003Component,
+Level20Component1004Component,
+Level20Component1005Component,
+Level20Component1006Component,
+Level20Component1007Component,
+Level20Component1008Component,
+Level20Component1009Component,
+Level20Component1010Component,
+Level20Component1011Component,
+Level20Component1012Component,
+Level20Component1013Component,
+Level20Component1014Component,
+Level20Component1015Component,
+Level20Component1016Component,
+Level20Component1017Component,
+Level20Component1018Component,
+Level20Component1019Component,
+Level20Component1020Component,
+Level20Component1021Component,
+Level20Component1022Component,
+Level20Component1023Component,
+Level20Component1024Component,
+Level20Component1025Component,
+Level20Component1026Component,
+Level20Component1027Component,
+Level20Component1028Component,
+Level20Component1029Component,
+Level20Component1030Component,
+Level20Component1031Component,
+Level20Component1032Component,
+Level20Component1033Component,
+Level20Component1034Component,
+Level20Component1035Component,
+Level20Component1036Component,
+Level20Component1037Component,
+Level20Component1038Component,
+Level20Component1039Component,
+Level20Component1040Component,
+Level20Component1041Component,
+Level20Component1042Component,
+Level20Component1043Component,
+Level20Component1044Component,
+Level20Component1045Component,
+Level20Component1046Component,
+Level20Component1047Component,
+Level20Component1048Component,
+Level20Component1049Component,
+Level20Component1050Component,
+Level20Component1051Component,
+Level20Component1052Component,
+Level20Component1053Component,
+Level20Component1054Component,
+Level20Component1055Component,
+Level20Component1056Component,
+Level20Component1057Component,
+Level20Component1058Component,
+Level20Component1059Component,
+Level20Component1060Component,
+Level20Component1061Component,
+Level20Component1062Component,
+Level20Component1063Component,
+Level20Component1064Component,
+Level20Component1065Component,
+Level20Component1066Component,
+Level20Component1067Component,
+Level20Component1068Component,
+Level20Component1069Component,
+Level20Component1070Component,
+Level20Component1071Component,
+Level20Component1072Component,
+Level20Component1073Component,
+Level20Component1074Component,
+Level20Component1075Component,
+Level20Component1076Component,
+Level20Component1077Component,
+Level20Component1078Component,
+Level20Component1079Component,
+Level20Component1080Component,
+Level20Component1081Component,
+Level20Component1082Component,
+Level20Component1083Component,
+Level20Component1084Component,
+Level20Component1085Component,
+Level20Component1086Component,
+Level20Component1087Component,
+Level20Component1088Component,
+Level20Component1089Component,
+Level20Component1090Component,
+Level20Component1091Component,
+Level20Component1092Component,
+Level20Component1093Component,
+Level20Component1094Component,
+Level20Component1095Component,
+Level20Component1096Component,
+Level20Component1097Component,
+Level20Component1098Component,
+Level20Component1099Component,
+Level20Component1100Component,
+Level20Component1101Component,
+Level20Component1102Component,
+Level20Component1103Component,
+Level20Component1104Component,
+Level20Component1105Component,
+Level20Component1106Component,
+Level20Component1107Component,
+Level20Component1108Component,
+Level20Component1109Component,
+Level20Component1110Component,
+Level20Component1111Component,
+Level20Component1112Component,
+Level20Component1113Component,
+Level20Component1114Component,
+Level20Component1115Component,
+Level20Component1116Component,
+Level20Component1117Component,
+Level20Component1118Component,
+Level20Component1119Component,
+Level20Component1120Component,
+Level20Component1121Component,
+Level20Component1122Component,
+Level20Component1123Component,
+Level20Component1124Component,
+Level20Component1125Component,
+Level20Component1126Component,
+Level20Component1127Component,
+Level20Component1128Component,
+Level20Component1129Component,
+Level20Component1130Component,
+Level20Component1131Component,
+Level20Component1132Component,
+Level20Component1133Component,
+Level20Component1134Component,
+Level20Component1135Component,
+Level20Component1136Component,
+Level20Component1137Component,
+Level20Component1138Component,
+Level20Component1139Component,
+Level20Component1140Component,
+Level20Component1141Component,
+Level20Component1142Component,
+Level20Component1143Component,
+Level20Component1144Component,
+Level20Component1145Component,
+Level20Component1146Component,
+Level20Component1147Component,
+Level20Component1148Component,
+Level20Component1149Component,
+Level20Component1150Component,
+Level20Component1151Component,
+Level20Component1152Component,
+Level20Component1153Component,
+Level20Component1154Component,
+Level20Component1155Component,
+Level20Component1156Component,
+Level20Component1157Component,
+Level20Component1158Component,
+Level20Component1159Component,
+Level20Component1160Component,
+Level20Component1161Component,
+Level20Component1162Component,
+Level20Component1163Component,
+Level20Component1164Component,
+Level20Component1165Component,
+Level20Component1166Component,
+Level20Component1167Component,
+Level20Component1168Component,
+Level20Component1169Component,
+Level20Component1170Component,
+Level20Component1171Component,
+Level20Component1172Component,
+Level20Component1173Component,
+Level20Component1174Component,
+Level20Component1175Component,
+Level20Component1176Component,
+Level20Component1177Component,
+Level20Component1178Component,
+Level20Component1179Component,
+Level20Component1180Component,
+Level20Component1181Component,
+Level20Component1182Component,
+Level20Component1183Component,
+Level20Component1184Component,
+Level20Component1185Component,
+Level20Component1186Component,
+Level20Component1187Component,
+Level20Component1188Component,
+Level20Component1189Component,
+Level20Component1190Component,
+Level20Component1191Component,
+Level20Component1192Component,
+Level20Component1193Component,
+Level20Component1194Component,
+Level20Component1195Component,
+Level20Component1196Component,
+Level20Component1197Component,
+Level20Component1198Component,
+Level20Component1199Component,
+Level20Component1200Component,
+Level20Component1201Component,
+Level20Component1202Component,
+Level20Component1203Component,
+Level20Component1204Component,
+Level20Component1205Component,
+Level20Component1206Component,
+Level20Component1207Component,
+Level20Component1208Component,
+Level20Component1209Component,
+Level20Component1210Component,
+Level20Component1211Component,
+Level20Component1212Component,
+Level20Component1213Component,
+Level20Component1214Component,
+Level20Component1215Component,
+Level20Component1216Component,
+Level20Component1217Component,
+Level20Component1218Component,
+Level20Component1219Component,
+Level20Component1220Component,
+Level20Component1221Component,
+Level20Component1222Component,
+Level20Component1223Component,
+Level20Component1224Component,
+Level20Component1225Component,
+Level20Component1226Component,
+Level20Component1227Component,
+Level20Component1228Component,
+Level20Component1229Component,
+Level20Component1230Component,
+Level20Component1231Component,
+Level20Component1232Component,
+Level20Component1233Component,
+Level20Component1234Component,
+Level20Component1235Component,
+Level20Component1236Component,
+Level20Component1237Component,
+Level20Component1238Component,
+Level20Component1239Component,
+Level20Component1240Component,
+Level20Component1241Component,
+Level20Component1242Component,
+Level20Component1243Component,
+Level20Component1244Component,
+Level20Component1245Component,
+Level20Component1246Component,
+Level20Component1247Component,
+Level20Component1248Component,
+Level20Component1249Component,
+Level20Component1250Component,
+Level20Component1251Component,
+Level20Component1252Component,
+Level20Component1253Component,
+Level20Component1254Component,
+Level20Component1255Component,
+Level20Component1256Component,
+Level20Component1257Component,
+Level20Component1258Component,
+Level20Component1259Component,
+Level20Component1260Component,
+Level20Component1261Component,
+Level20Component1262Component,
+Level20Component1263Component,
+Level20Component1264Component,
+Level20Component1265Component,
+Level20Component1266Component,
+Level20Component1267Component,
+Level20Component1268Component,
+Level20Component1269Component,
+Level20Component1270Component,
+Level20Component1271Component,
+Level20Component1272Component,
+Level20Component1273Component,
+Level20Component1274Component,
+Level20Component1275Component,
+Level20Component1276Component,
+Level20Component1277Component,
+Level20Component1278Component,
+Level20Component1279Component,
+Level20Component1280Component,
+Level20Component1281Component,
+Level20Component1282Component,
+Level20Component1283Component,
+Level20Component1284Component,
+Level20Component1285Component,
+Level20Component1286Component,
+Level20Component1287Component,
+Level20Component1288Component,
+Level20Component1289Component,
+Level20Component1290Component,
+Level20Component1291Component,
+Level20Component1292Component,
+Level20Component1293Component,
+Level20Component1294Component,
+Level20Component1295Component,
+Level20Component1296Component,
+Level20Component1297Component,
+Level20Component1298Component,
+Level20Component1299Component,
+Level20Component1300Component,
+Level20Component1301Component,
+Level20Component1302Component,
+Level20Component1303Component,
+Level20Component1304Component,
+Level20Component1305Component,
+Level20Component1306Component,
+Level20Component1307Component,
+Level20Component1308Component,
+Level20Component1309Component,
+Level20Component1310Component,
+Level20Component1311Component,
+Level20Component1312Component,
+Level20Component1313Component,
+Level20Component1314Component,
+Level20Component1315Component,
+Level20Component1316Component,
+Level20Component1317Component,
+Level20Component1318Component,
+Level20Component1319Component,
+Level20Component1320Component,
+Level20Component1321Component,
+Level20Component1322Component,
+Level20Component1323Component,
+Level20Component1324Component,
+Level20Component1325Component,
+Level20Component1326Component,
+Level20Component1327Component,
+Level20Component1328Component,
+Level20Component1329Component,
+Level20Component1330Component,
+Level20Component1331Component,
+Level20Component1332Component,
+Level20Component1333Component,
+Level20Component1334Component,
+Level20Component1335Component,
+Level20Component1336Component,
+Level20Component1337Component,
+Level20Component1338Component,
+Level20Component1339Component,
+Level20Component1340Component,
+Level20Component1341Component,
+Level20Component1342Component,
+Level20Component1343Component,
+Level20Component1344Component,
+Level20Component1345Component,
+Level20Component1346Component,
+Level20Component1347Component,
+Level20Component1348Component,
+Level20Component1349Component,
+Level20Component1350Component,
+Level20Component1351Component,
+Level20Component1352Component,
+Level20Component1353Component,
+Level20Component1354Component,
+Level20Component1355Component,
+Level20Component1356Component,
+Level20Component1357Component,
+Level20Component1358Component,
+Level20Component1359Component,
+Level20Component1360Component,
+Level20Component1361Component,
+Level20Component1362Component,
+Level20Component1363Component,
+Level20Component1364Component,
+Level20Component1365Component,
+Level20Component1366Component,
+Level20Component1367Component,
+Level20Component1368Component,
+Level20Component1369Component,
+Level20Component1370Component,
+Level20Component1371Component,
+Level20Component1372Component,
+Level20Component1373Component,
+Level20Component1374Component,
+Level20Component1375Component,
+Level20Component1376Component,
+Level20Component1377Component,
+Level20Component1378Component,
+Level20Component1379Component,
+Level20Component1380Component,
+Level20Component1381Component,
+Level20Component1382Component,
+Level20Component1383Component,
+Level20Component1384Component,
+Level20Component1385Component,
+Level20Component1386Component,
+Level20Component1387Component,
+Level20Component1388Component,
+Level20Component1389Component,
+Level20Component1390Component,
+Level20Component1391Component,
+Level20Component1392Component,
+Level20Component1393Component,
+Level20Component1394Component,
+Level20Component1395Component,
+Level20Component1396Component,
+Level20Component1397Component,
+Level20Component1398Component,
+Level20Component1399Component,
+Level20Component1400Component,
+Level20Component1401Component,
+Level20Component1402Component,
+Level20Component1403Component,
+Level20Component1404Component,
+Level20Component1405Component,
+Level20Component1406Component,
+Level20Component1407Component,
+Level20Component1408Component,
+Level20Component1409Component,
+Level20Component1410Component,
+Level20Component1411Component,
+Level20Component1412Component,
+Level20Component1413Component,
+Level20Component1414Component,
+Level20Component1415Component,
+Level20Component1416Component,
+Level20Component1417Component,
+Level20Component1418Component,
+Level20Component1419Component,
+Level20Component1420Component,
+Level20Component1421Component,
+Level20Component1422Component,
+Level20Component1423Component,
+Level20Component1424Component,
+Level20Component1425Component,
+Level20Component1426Component,
+Level20Component1427Component,
+Level20Component1428Component,
+Level20Component1429Component,
+Level20Component1430Component,
+Level20Component1431Component,
+Level20Component1432Component,
+Level20Component1433Component,
+Level20Component1434Component,
+Level20Component1435Component,
+Level20Component1436Component,
+Level20Component1437Component,
+Level20Component1438Component,
+Level20Component1439Component,
+Level20Component1440Component,
+Level20Component1441Component,
+Level20Component1442Component,
+Level20Component1443Component,
+Level20Component1444Component,
+Level20Component1445Component,
+Level20Component1446Component,
+Level20Component1447Component,
+Level20Component1448Component,
+Level20Component1449Component,
+Level20Component1450Component,
+Level20Component1451Component,
+Level20Component1452Component,
+Level20Component1453Component,
+Level20Component1454Component,
+Level20Component1455Component,
+Level20Component1456Component,
+Level20Component1457Component,
+Level20Component1458Component,
+Level20Component1459Component,
+Level20Component1460Component,
+Level20Component1461Component,
+Level20Component1462Component,
+Level20Component1463Component,
+Level20Component1464Component,
+Level20Component1465Component,
+Level20Component1466Component,
+Level20Component1467Component,
+Level20Component1468Component,
+Level20Component1469Component,
+Level20Component1470Component,
+Level20Component1471Component,
+Level20Component1472Component,
+Level20Component1473Component,
+Level20Component1474Component,
+Level20Component1475Component,
+Level20Component1476Component,
+Level20Component1477Component,
+Level20Component1478Component,
+Level20Component1479Component,
+Level20Component1480Component,
+Level20Component1481Component,
+Level20Component1482Component,
+Level20Component1483Component,
+Level20Component1484Component,
+Level20Component1485Component,
+Level20Component1486Component,
+Level20Component1487Component,
+Level20Component1488Component,
+Level20Component1489Component,
+Level20Component1490Component,
+Level20Component1491Component,
+Level20Component1492Component,
+Level20Component1493Component,
+Level20Component1494Component,
+Level20Component1495Component,
+Level20Component1496Component,
+Level20Component1497Component,
+Level20Component1498Component,
+Level20Component1499Component,
 ],
     selector: 'app-level20-component1501',
     templateUrl: './level20-component1501.component.html',
-    styleUrls: ["./level20-component1501.component.css"]
   })
   export class Level20Component1501Component {}
